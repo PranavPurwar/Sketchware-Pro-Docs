@@ -3,7 +3,6 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Sketchware Pro",
-  base: "/docs/",
   description: "Documentation for Sketchware Pro",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
