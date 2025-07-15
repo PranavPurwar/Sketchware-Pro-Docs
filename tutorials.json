@@ -1,0 +1,92 @@
+[
+  {
+    "title": "How to use forever block in Sketchware",
+    "description": "Learn how to implement a forever block in your Sketchware projects to create loops that run indefinitely.",
+    "url": "https://youtu.be/tTy4pEhy8_w?si=CjwnGQQyr91idcYG",
+    "type": "video",
+    "filter": "beginner",
+    "author": "Sanjeev Kumar",
+    "duration": "6 min"
+  },
+  {
+    "title": "Allow user to choose text size in Sketchware",
+    "description": "Learn how to let users select their preferred text size in your Sketchware applications for better accessibility.",
+    "url": "https://youtu.be/ouwVk3kiiZ4?si=uCRj97Jdk215bpyB",
+    "type": "video",
+    "filter": "beginner",
+    "author": "Sanjeev Kumar",
+    "duration": "5 min"
+  },
+  {
+    "title": "Pick image from gallery and display in ImageView in Sketchware",
+    "description": "Learn how to allow users to pick an image from their gallery and display it in an ImageView within your Sketchware app.",
+    "url": "https://youtu.be/Q-7n3f51SXc?si=2xlxDtJHzCwKUJ78",
+    "type": "video",
+    "filter": "beginner",
+    "author": "Sanjeev Kumar",
+    "duration": "3 min"
+  },
+  {
+    "title": "Welcome screen with bouncing text in Sketchware",
+    "description": "Create an welcome screen with bouncing text effects in your Sketchware applications.",
+    "url": "https://youtu.be/WlpBKM_A4fI?si=8y8c3WnopEEJkLWw",
+    "type": "video",
+    "filter": "beginner",
+    "author": "Sanjeev Kumar",
+    "duration": "3 min"
+  },
+  {
+    "title": "Change language in android app using Sketchware",
+    "description": "Learn how to implement language change functionality in your Android app using Sketchware, allowing users to switch languages easily.",
+    "url": "https://youtu.be/oSGwOXT9800?si=3ra36yv2L8SxyYui",
+    "type": "video",
+    "filter": "advanced",
+    "author": "Sanjeev Kumar",
+    "duration": "8 min"
+  },
+  {
+    "title": "Reminder notifications using AlarmManager in Sketchware",
+    "description": "Learn how to set up reminder notifications in your Sketchware app using AlarmManager to alert users at specific times.",
+    "url": "https://youtu.be/Ar78ocqWAfA?si=BRB7H2WDwdFno14K",
+    "type": "video",
+    "filter": "advanced",
+    "author": "Sanjeev Kumar",
+    "duration": "11 min"
+  },
+  {
+    "title": "Simple database app in sketchware",
+    "description": "Create a simple database application in Sketchware that allows you to store and retrieve data efficiently.",
+    "url": "https://youtu.be/DIMjofO8Yt0?si=i5EAUeyap0PD8eXp",
+    "type": "video",
+    "filter": "advanced",
+    "author": "Sanjeev Kumar",
+    "duration": "10 min"
+  },
+  {
+    "title": "Creating blocks in Sketchware",
+    "description": "Learn how to create custom blocks in Sketchware to extend the functionality of your projects and enhance code reusability.",
+    "url": "https://docs.swpro.vercel.app/blocks/block/creating-block.html",
+    "type": "article",
+    "filter": "beginner",
+    "author": "Dev Vigilante",
+    "duration": "7 min"
+  },
+  {
+    "title": "Import blocks in Sketchware",
+    "description": "Learn how to import custom blocks into your Sketchware projects to enhance functionality and streamline development.",
+    "url": "https://docs.swpro.vercel.app/blocks/block/import-blocks.html",
+    "type": "article",
+    "filter": "advanced",
+    "author": "Dev Vigilante",
+    "duration": "8 min"
+  },
+  {
+    "title": "Show youtube video in Sketchware",
+    "description": "Learn how to embed and display YouTube videos within your Sketchware application for enhanced user engagement.",
+    "url": "https://docs.swpro.vercel.app/views/youtube.html",
+    "type": "article",
+    "filter": "advanced",
+    "author": "NiceSapien",
+    "duration": "5 min"
+  }
+]
